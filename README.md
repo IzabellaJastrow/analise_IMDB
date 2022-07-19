@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido durante o curso de Python Fundamentos Para Anális
 Os dados utilizados foram obtidos diretamente do IMDB em julho de 2022. Ao repetir a análise posteriormente pode haver diferenças nos resultados pois o banco de dados é atualizado diariamente.
 
 
-Texto no medium para exposição do projeto: <a href="https://medium.com/@izabellajastrow/jogos-tradicionais-com-python-a18ae7c1a129">Clique aqui</a>
+Texto no medium para exposição do projeto: <a href="https://medium.com/@izabellajastrow/análise-e-visualização-dos-dados-do-imdb-com-python-e-sql-d42abcf5d703">Clique aqui</a>
 
 
 ---
